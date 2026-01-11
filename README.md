@@ -1,2 +1,2 @@
 # water-tracker-react-pwa
-Custom water tracker in React.
+Water tracker in React.
